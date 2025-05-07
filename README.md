@@ -6,20 +6,20 @@ Sebuah solusi terpadu untuk mempermudah pengelolaan dan perbaikan fasilitas di s
 
 ## Built With
 
-* [![Laravel][Laravel.com]][Laravel-url]
+[![Laravel][Laravel.com]][Laravel-url]
 
-## How To Colaborate
+## How To Collaborate
 
 1. Clone the project using Git
 
     ```bash
-    git clone https://github.com/Maju-Lancar/MAGNET-Magang-Network-And-Tracking.git
+    git clone https://github.com/Fabiqnn/fixIT.git
     ```
 
 2. Navigate to the project directory
 
     ```bash
-    cd MAGNET-Magang-Network-And-Tracking
+    cd fixIT
     ```
 
 3. Install require dependencies
@@ -48,4 +48,8 @@ Sebuah solusi terpadu untuk mempermudah pengelolaan dan perbaikan fasilitas di s
     ```
     This will set up your database schema.
 
+
+
+[Laravel.com]: https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg
+[Laravel-url]: https://laravel.com
 
