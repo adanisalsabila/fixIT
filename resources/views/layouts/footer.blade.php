@@ -6,7 +6,6 @@
             </div>
             <div class="col-md-6 text-md-end">
                 <ul class="list-inline">
-                    <li class="list-inline-item"><a href="#" class="text-light">Privacy Policy</a></li>
                     <li class="list-inline-item"><a href="#" class="text-light">Terms of Service</a></li>
                 </ul>
             </div>
